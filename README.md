@@ -1,4 +1,4 @@
-# Self-indulging plugin building
+# Self-applied SBT plugin
 
 #### So WTF am I looking at ?
 
